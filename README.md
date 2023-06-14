@@ -31,3 +31,8 @@ L'API Gateway est configuré sur la plateforme AWS pour gérer les appels Get en
 <p>Et voici une capture d'un appel Get avec postman</p>
 
 ![Alt text](/img/testPostman.png?raw=true)
+
+<p>les fonctions Lambda sont surveillés automatiquement et les logs sont envoyés à Amazon CloudWatch.<br/>
+Voici une capture d'un message de test sur le log</p>
+
+![Alt text](/img/testLog.png?raw=true)
